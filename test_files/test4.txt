@@ -1,0 +1,4 @@
+{ Sample 4: Malformed Assignment Test }
+read x;
+x : 5;
+write x

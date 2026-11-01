@@ -1,0 +1,4 @@
+read x;
+x := 5;
+{ This comment forgot to close
+write x

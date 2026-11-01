@@ -1,0 +1,4 @@
+{ Sample 3: Invalid Character Test }
+read x;
+x := 5 $ 4;
+write x

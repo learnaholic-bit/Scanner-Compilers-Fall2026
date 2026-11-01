@@ -1,0 +1,5 @@
+read, READ
+x, IDENTIFIER
+;, SEMICOLON
+x, IDENTIFIER
+Malformed assignment: Found ':', but expected '=' immediately after it to form ':='., ERROR

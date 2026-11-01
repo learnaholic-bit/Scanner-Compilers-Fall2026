@@ -1,0 +1,7 @@
+read, READ
+x, IDENTIFIER
+;, SEMICOLON
+x, IDENTIFIER
+:=, ASSIGN
+5, NUMBER
+Invalid character '$': Not a valid TINY letter, digit, or supported symbol., ERROR

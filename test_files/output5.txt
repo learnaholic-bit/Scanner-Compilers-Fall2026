@@ -1,0 +1,8 @@
+read, READ
+x, IDENTIFIER
+;, SEMICOLON
+x, IDENTIFIER
+:=, ASSIGN
+5, NUMBER
+;, SEMICOLON
+Unclosed comment: Code block started with '{' but reached the end of the file without a closing '}'., ERROR
